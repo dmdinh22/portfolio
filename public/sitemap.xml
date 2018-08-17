@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://davidmdinh.com/#intro</loc>
+  </url>
+  
+  <url>
+    <loc>http://davidmdinh.com/#about</loc>
+    <lastmod>2018-01-21T09:52:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://davidmdinh.com/#work</loc>
+    <lastmod>2018-01-21T09:53:01-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://davidmdinh.com/#contact</loc>
+    <lastmod>2018-01-21T09:53:06-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://davidmdinh.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://davidmdinh.com/#</loc>
+    <lastmod>2018-01-21T09:52:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://davidmdinh.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
